@@ -1,1 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Downloaded dataset and audio files
+ESC-50-master/
+esc50.zip
+*.wav
+*.mp3
+
+# Generated feature files
+*.npz
+
+# System files
+.DS_Store
+
+# Temporary files
+*.log
