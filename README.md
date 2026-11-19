@@ -79,7 +79,7 @@ The results show a progressive decline in classification accuracy as noise inten
 
 ![Confusion Matrix](results/confusion_matrix.png)
 
-[View Detailed Classification Report](results/classification_report.csv)
+[View Detailed Classification Report](./results/classification_report.csv)
 
 ## Repository Structure
 
