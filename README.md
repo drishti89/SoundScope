@@ -69,6 +69,18 @@ Dataset: https://github.com/karolpiczak/ESC-50
 
 The results show a progressive decline in classification accuracy as noise intensity increases, highlighting the importance of evaluating audio models under varying acoustic conditions.
 
+### Performance Visualizations
+
+**Accuracy under different noise conditions**
+
+![Noise Robustness Plot](results/robustness_plot.png)
+
+**Confusion Matrix**
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+[View Detailed Classification Report](results/classification_report.csv)
+
 ## Repository Structure
 
 ```text
